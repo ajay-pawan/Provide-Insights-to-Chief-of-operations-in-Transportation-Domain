@@ -21,6 +21,7 @@ Generate a report that displays the total trips, average fare per km, average fa
 
 
 **2.Monthly City_level Trips Target Performance Report**
+
 Generate a report that displays the total trips, average fare per km, average fare per trip, and the percentage contribution of each city's trips to the overall trips. This report will help in assessing trip volume, pricing efficiency, and each city's contribution to the overall trip count.
 If actual trips are greater than target trips, mark it as "Above Target".
  If actual trips are less than or equal to target trips, mark it as "Below Target".
@@ -31,6 +32,7 @@ Additionally, calculate the % difference between actual and target trips to quan
 ![image](https://github.com/user-attachments/assets/5e9a425a-9849-4ba4-af58-adc2d316164f)
 
 **3.City-level Repeat Passenger trip frequency report**
+
 Generate a report that shows the percentage distribution of repeat passengers by the number of trips they have taken in each city. Calculate the percentage of repeat passengers who took 2 trips, 3 trips, and so on, up to 10 trips.
 Each column should represent a trip count category, displaying the percentage of repeat passengers who fall into that category out of the total repeat passengers for that city.
 This report will help identify cities with high repeat trip frequency, which can indicate strong customer loyalty or frequent usage patterns.
@@ -41,16 +43,19 @@ This report will help identify cities with high repeat trip frequency, which can
 ![image](https://github.com/user-attachments/assets/ea59799c-3f81-43fe-921d-ea030890da3b)
 
 **4.Identify cities with highest and lowest total new passengers**
+
 Generate a report that calculates the total new passengers for each city and ranks them based on this value. Identify the top 3 cities with the highest number of new passengers as well as the bottom 3 cities with the lowest number of new passengers, categorising them as "Top 3" or "Bottom 3" accordingly.
 
 ![image](https://github.com/user-attachments/assets/11be4b8a-8c0e-4224-9389-26cf0871bdfb)
 
 **5.Identify month with highest revenue for each city**
+
 Generate a report that identifies the month with the highest revenue for each city. For each city, display the month_name, the revenue amount for that month, and the percentage contribution of that month's revenue to the city's total revenue.
 
 ![image](https://github.com/user-attachments/assets/c443c215-9d6b-43cc-be1c-91bdc3a62ec3)
 
 **6.Repet passenger rate analysis**
+
 Generate a report that calculates two metrics:
 1.	Monthly Repeat Passenger Rate: Calculate the repeat passenger rate for each city and month by comparing the number of repeat passengers to the total passengers.
 2.	City-wide Repeat Passenger Rate: Calculate the overall repeat passenger rate for each city, considering all passengers across months.
