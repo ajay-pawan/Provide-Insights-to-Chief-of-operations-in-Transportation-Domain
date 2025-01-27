@@ -12,6 +12,7 @@ and the balance between new and repeat passengers.
 ## AD-HOC BUSINESS REQUESTS
 
 **1.City-level fare and trip Summary Report**
+
 Generate a report that displays the total trips, average fare per km, average fare per trip, and the percentage contribution of each city's trips to the overall trips. This report will help in assessing trip volume, pricing efficiency, and each city's contribution to the overall trip count.
 
 
