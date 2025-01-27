@@ -1,5 +1,6 @@
 # Provide-Insights-to-Chief-of-operations-in-Transportation-Domain
-	
+![image](![location-pin](https://github.com/user-attachments/assets/cde7ed86-624e-43f2-9152-efb7c7d37026)
+
  Transpotation and Mobility Problem Statement
 
 Goodcabs, a cab service company established two years ago, has gained a strong foothold in the Indian market by focusing on tier-2 cities. Unlike other cab service providers, Goodcabs is committed to supporting local drivers,
