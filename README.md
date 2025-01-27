@@ -91,7 +91,9 @@ Generate a report that calculates two metrics:
 **Dashboard Hghlights**:
   
 **Trips Report**: Focuses on trip details such as fare, distance, and city information, providing insights into operational efficiency.
+
 **City Report**: Analyzes transportation performance across various cities, offering city-specific insights into service levels, coverage, and demand.
+
 **Passenger Report**: Presents analytics on passenger data, such as repeat passengers rate, seasonal demands, and customer satisfaction metrics.
 
 
