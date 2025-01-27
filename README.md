@@ -9,7 +9,7 @@ helping them make a sustainable living in their hometowns while ensuring excelle
 and improve passenger satisfaction. As part of this initiative, the Goodcabs management team aims to assess the company's performance across key metrics, including trip volume, passenger satisfaction, repeat passenger rate, trip distribution, 
 and the balance between new and repeat passengers.
 
-[live dashboard link ]([https://www.example.com](https://app.powerbi.com/view?r=eyJrIjoiOTY5NzZlOWQtZWE4YS00NjU1LWJhYWItYzY1YzYxN2FjMzk4IiwidCI6IjViOGEyNGIxLTA5MjgtNDdmZC04MzhmLTgwYTMxNTVhM2NhZiJ9&pageName=a7a29957abb9802996ed))
+https://app.powerbi.com/view?r=eyJrIjoiOTY5NzZlOWQtZWE4YS00NjU1LWJhYWItYzY1YzYxN2FjMzk4IiwidCI6IjViOGEyNGIxLTA5MjgtNDdmZC04MzhmLTgwYTMxNTVhM2NhZiJ9&pageName=a7a29957abb9802996ed
 
 ## AD-HOC BUSINESS REQUESTS
 
