@@ -1,5 +1,5 @@
 # Provide-Insights-to-Chief-of-operations-in-Transportation-Domain
-![image](![location-pin](https://github.com/user-attachments/assets/cde7ed86-624e-43f2-9152-efb7c7d37026)
+(![location-pin](https://github.com/user-attachments/assets/cde7ed86-624e-43f2-9152-efb7c7d37026)
 
  Transpotation and Mobility Problem Statement
 
