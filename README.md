@@ -54,7 +54,7 @@ Generate a report that identifies the month with the highest revenue for each ci
 
 ![image](https://github.com/user-attachments/assets/c443c215-9d6b-43cc-be1c-91bdc3a62ec3)
 
-**6.Repet passenger rate analysis**
+**6.Repeat passenger rate analysis**
 
 Generate a report that calculates two metrics:
 1.	Monthly Repeat Passenger Rate: Calculate the repeat passenger rate for each city and month by comparing the number of repeat passengers to the total passengers.
