@@ -102,23 +102,30 @@ Generate a report that calculates two metrics:
 ### Key Insights:
 
 1. **Seasonal & operational Optimization**:
-   - Identified opperational performance for passenger demand across different cities, allowing for better resource allocation.
-   - identified peak seasonal demands as well as percentage contribtion of the each city to understand demands across the various cities and months 
-
-2. **City-Specific Performance Metrics**:
-   - Analyzed  city wise ditribution of trips, performance metrics across multiple cities, revealing cities with higher demand.
-   - Analyzed performance of cities such has top-3 cities and bottom-3 cities 
-     
-3. **Passenger Demographics and Satisfaction**:
-   - Discovered trends in passenger demographics, such as  frequent travel times, enabling targeted marketing and service enhancements.
    
-
-4. **Trip Efficiency & Cost Reduction**:
-   - Analyzed trip_fares,averages distances,fare trip per km , distance, and  highlight inefficiencies in current cities.
+    - Identified operational performance for passenger demand across different cities, allowing for better resource allocation.
+      
+    - identified peak seasonal demands as well as percentage contribution of the each city to understand demands across the various cities and months
+      
+3. **City-Specific Performance Metrics**:
    
-5. **Growth and Demand Trends**:
-   - Identified trends in passenger growth across different regions, highlighting areas with growing demand that require expanded service.
-   - Evaluated the difference between the target and actual outcomes to have clear view on the operational performance to analyze whether the target are met or not.
+    - Analyzed city wise distribution of trips, performance metrics across multiple cities, revealing cities with higher demand.
+      
+    - Analyzed performance of cities such has top-3 cities and bottom-3 cities
+      
+5. **Passenger Demographics and Satisfaction**:
+   
+    - Discovered trends in passenger demographics, such as frequent travel times, enabling targeted marketing and service enhancements.
+      
+7. **Trip Efficiency & Cost Reduction**:
+   
+    - Analyzed trip fares, average distances, fare trip per km , distance, and highlight inefficiencies in current cities.
+      
+9. **Growth and Demand Trends**:
+
+    - Identified trends in passenger growth across different regions, highlighting areas with growing demand that require expanded service.
+  
+    - Evaluated the difference between the target and actual outcomes to have clear view on the operational performance to analyze whether the target are met or not.
  
 
 
